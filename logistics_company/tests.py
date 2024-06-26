@@ -11,7 +11,6 @@ class RegistryTestCase(TestCase):
             name="Logistics Company",
             count=5,
             distance=500,
-
         )
 
     def test_registry_creation(self):

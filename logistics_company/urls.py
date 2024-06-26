@@ -7,5 +7,5 @@ app_name = LogisticsCompanyConfig.name
 
 
 urlpatterns = [
-    path('', order_list, name='main'),
+    path("", order_list, name="main"),
 ]
