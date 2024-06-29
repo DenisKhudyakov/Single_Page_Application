@@ -30,5 +30,5 @@
 		1) Установите Python и Poetry если они не установлены.
 		2) Клонируйте репозиторий git clone https://github.com/DenisKhudyakov/drf_course_paper
 		3) Установаите Docker и Docker Desktop
-        4) Запустите в директории проекта команду docker compose up
+        4) Запустите в директории проекта команду docker compose up --build
 		
