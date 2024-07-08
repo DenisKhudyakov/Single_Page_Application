@@ -11,3 +11,5 @@ def order_list(request):
     page = request.GET.get("page")
     page_obj = paginator.get_page(page)
     return render(request, "logistics_company/main.html", {"page_obj": page_obj})
+
+#тестовый коментарий
