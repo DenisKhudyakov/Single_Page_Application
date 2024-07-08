@@ -1,0 +1,152 @@
+[
+    {
+        "model": "logistics_company.registry",
+        "pk": 1,
+        "fields": {
+            "date": "2024-06-26",
+            "name": "Отправитель 1",
+            "count": 15,
+            "distance": 500
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 2,
+        "fields": {
+            "date": "2024-06-25",
+            "name": "Отправитель 2",
+            "count": 20,
+            "distance": 300
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 3,
+        "fields": {
+            "date": "2024-06-24",
+            "name": "Отправитель 3",
+            "count": 25,
+            "distance": 700
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 4,
+        "fields": {
+            "date": "2024-06-23",
+            "name": "Отправитель 4",
+            "count": 10,
+            "distance": 450
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 5,
+        "fields": {
+            "date": "2024-06-22",
+            "name": "Отправитель 5",
+            "count": 30,
+            "distance": 600
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 6,
+        "fields": {
+            "date": "2024-06-21",
+            "name": "Отправитель 6",
+            "count": 18,
+            "distance": 550
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 7,
+        "fields": {
+            "date": "2024-06-20",
+            "name": "Отправитель 7",
+            "count": 12,
+            "distance": 400
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 8,
+        "fields": {
+            "date": "2024-06-19",
+            "name": "Отправитель 8",
+            "count": 22,
+            "distance": 350
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 9,
+        "fields": {
+            "date": "2024-06-18",
+            "name": "Отправитель 9",
+            "count": 28,
+            "distance": 450
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 10,
+        "fields": {
+            "date": "2024-06-17",
+            "name": "Отправитель 10",
+            "count": 15,
+            "distance": 500
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 11,
+        "fields": {
+            "date": "2024-06-16",
+            "name": "Отправитель 11",
+            "count": 14,
+            "distance": 600
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 12,
+        "fields": {
+            "date": "2024-06-15",
+            "name": "Отправитель 12",
+            "count": 17,
+            "distance": 650
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 13,
+        "fields": {
+            "date": "2024-06-14",
+            "name": "Отправитель 13",
+            "count": 19,
+            "distance": 700
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 14,
+        "fields": {
+            "date": "2024-06-13",
+            "name": "Отправитель 14",
+            "count": 11,
+            "distance": 300
+        }
+    },
+    {
+        "model": "logistics_company.registry",
+        "pk": 15,
+        "fields": {
+            "date": "2024-06-12",
+            "name": "Отправитель 15",
+            "count": 13,
+            "distance": 350
+        }
+    }
+]
